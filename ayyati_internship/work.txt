@@ -1,0 +1,72 @@
+Hi,
+
+Please go through the following concepts and let me know when you are done.
+
+http://coding.smashingmagazine.com/2011/10/17/getting-started-with-php-templating/
+http://r.je/mvc-in-php.html
+
+Regards
+
+Susmita
+
+
+
+
+
+Hi guys,
+
+In the previous mail, I have given you some links which clearly explains php templating and Model-View-Controller approach. Now you can understand how MVC can make the maintenance of code easier. Now I want you guys to get familiar with a php framework called Symphony2. Here is the link.
+
+http://symfony.com/
+
+ Go through the documents as of now and do the installation part. And let me know when you are done with this.
+
+
+configuring symphony
+setting up php to work in cmd
+
+
+2))))))))))
+
+
+Hi,
+
+Hope you are comfortable working with Php framework.
+
+Now I am sharing an image with you describes the basic layout of the site.
+
+Please design the backend (not coding,but the idea) and send me. We will discuss each of your designs and come up with final database design.
+
+
+So make sure to complete this task by tomorrow,i.e 4th June,2013.
+
+
+
+
+
+
+
+
+
+Hi guys,
+Hope you have gone through the image file describing the functionality of the website. 
+Now you have to start working on the backend. 
+
+This is the link of the word document which describes the database.
+
+
+ Green_Intern_backend
+
+@Sidharth, you code for internship.php
+
+@Rajul, you code for student.php
+
+@Snehashis, code for index.php and employer.php and user.php. You create index.php and user.php and sent it to both sidhharth and Rajul, so that they can add them in their project.
+
+I want you three people to communicate with each other and work together.
+
+Please revert back to this mail.
+
+Regards
+
+Susmita
